@@ -1,5 +1,5 @@
 // fetch('https://file.notion.so/f/s/a438c663-645c-4570-8503-11f20cea9b18/food.json?id=9f33085a-202e-4056-a4c4-08a0036624b4&table=block&spaceId=663a35c6-2bd7-44e6-bf90-5f33d51f737c&expirationTimestamp=1687487713036&signature=XvR7-iDGsZen9AQEIwNR2QpvroHfXbvALWwvP3Sjj1w&downloadName=food.json')
-// .then(response => response.json()) // parse the JSON content
+// .then(response => response.json()) 
 // .then(data => {
 //   let foodData = data;
 //   //console.log(foodData);
